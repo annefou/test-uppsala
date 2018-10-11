@@ -15,3 +15,4 @@ for filename in $INPUT_DIR/*.pdb
 done
 
 #cat $RESULT_DIR/lengths.txt
+#that is the end of the file
